@@ -46,4 +46,6 @@ for (let i = 0; i < 2; i++) {
     }
 }
 
+const lalala = 10;
+
 console.log(personalMovieDB);
